@@ -1,0 +1,18 @@
+a:link { color: blue; }
+a:visited { color: purple; }
+a:hover {
+  color: orange;
+  text-decoration: none;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2fbff;
+  color: #0b2f5b;
+}
+
+footer {
+  background-color: lightblue;
+  padding: 10px;
+  border: 1px dashed darkblue;
+}
